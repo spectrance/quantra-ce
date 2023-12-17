@@ -1,0 +1,4 @@
+# Files to Ignore while Commiting to the Repo 
+
+*.pdf
+*.ipynb
