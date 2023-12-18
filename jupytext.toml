@@ -1,2 +1,2 @@
 # Jupytext - Pair Notebooks with Markdown Files
-formats = "ipynb, md"
+formats = "ipynb,md"
